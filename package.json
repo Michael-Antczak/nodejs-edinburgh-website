@@ -1,0 +1,9 @@
+{
+  "name": "Nodejs-Edinburgh",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {},
+  "scripts": {
+    "start": "node app.js"
+  }
+}
