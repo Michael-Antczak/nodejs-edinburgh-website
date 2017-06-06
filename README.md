@@ -1,2 +1,2 @@
 # Node.js Edinburgh website
-This a repo for the Node.js Edinburgh meetup's website. 
+This is a repo for the Node.js Edinburgh meetup's website. 
